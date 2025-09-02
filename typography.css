@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(0, 0, 0);
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+.marketing-text {
+    color: blueviolet !important;
+}
+#special {
+    color: aqua;
+}
